@@ -1,0 +1,31 @@
+fileProducerOrganization,NYU Digital Library Technology Services
+targetType,Internal
+targetManufacturer,Xrite
+targetName,ColorChecker Classic
+targetNo,MSCCC
+targetMedia,Reflective Fuji Crystal paper
+targetIDSerialNo,1234567
+hostComputerManufacturer,Apple
+hostComputerName,Mac Pro
+operatingSystem,OSX
+operatingSystemVersion,10.5.8
+imageCaptureDevice ,Espson Expressions Scanner
+imageDeviceModelNumber,10000xl
+imageDeviceModelSerialNo,1234567
+imageDeviceSoftware,VueScan
+imageDeviceSoftwareVersionNo,9.1
+lightingManufacturer,Profoto
+lightingModelName,Pro-7
+lightingModelNumber,701-110
+colorTemp (lighting),6000K
+digitalChipManufacturer,Kodak
+digitalChipModelName,KAF
+digitalChipModelNumber,39000
+digitalChipModelSerialNo,1234567
+numOfEffectivePixelsWidth (chip),5412
+numOfEffectivePixelsLength,7256
+sensorSize,6.8 microns
+lensManufacturer,Rodenstock
+lensModelName,Apo-Sironar
+lensModelNumber,R160425
+focalLength (lens),0.120 (Floating point number measured in meters  I.e. 120 mm = 0.120 meters.)
