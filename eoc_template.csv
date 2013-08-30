@@ -1,31 +1,31 @@
-fileProducerOrganization,NYU Digital Library Technology Services
+fileProducerOrganization,Princeton University Library Digital Initiatives
 targetType,Internal
-targetManufacturer,Xrite
-targetName,ColorChecker Classic
-targetNo,MSCCC
-targetMedia,Reflective Fuji Crystal paper
-targetIDSerialNo,1234567
+targetManufacturer,Kodak
+targetName,Q-13
+targetNo,NA
+targetMedia,NA
+targetIDSerialNo,NA
 hostComputerManufacturer,Apple
 hostComputerName,Mac Pro
 operatingSystem,OSX
-operatingSystemVersion,10.5.8
-imageCaptureDevice ,Espson Expressions Scanner
-imageDeviceModelNumber,10000xl
-imageDeviceModelSerialNo,1234567
-imageDeviceSoftware,VueScan
-imageDeviceSoftwareVersionNo,9.1
-lightingManufacturer,Profoto
-lightingModelName,Pro-7
-lightingModelNumber,701-110
-colorTemp (lighting),6000K
-digitalChipManufacturer,Kodak
-digitalChipModelName,KAF
-digitalChipModelNumber,39000
-digitalChipModelSerialNo,1234567
-numOfEffectivePixelsWidth (chip),5412
-numOfEffectivePixelsLength,7256
-sensorSize,6.8 microns
-lensManufacturer,Rodenstock
-lensModelName,Apo-Sironar
-lensModelNumber,R160425
-focalLength (lens),0.120 (Floating point number measured in meters  I.e. 120 mm = 0.120 meters.)
+operatingSystemVersion,10.7.x
+imageCaptureDevice,Phase One
+imageDeviceModelNumber,P40
+imageDeviceModelSerialNo,EG031639, EG031575
+imageDeviceSoftware,Capture One
+imageDeviceSoftwareVersionNo,6.4.3
+lightingManufacturer,Northlight
+lightingModelName,LED36
+lightingModelNumber,NA
+colorTemp (lighting),5150K
+digitalChipManufacturer,Dalsa
+digitalChipModelName,NA
+digitalChipModelNumber,NA
+digitalChipModelSerialNo,EG031639, EG031575
+numOfEffectivePixelsWidth (chip),5484
+numOfEffectivePixelsLength,7320
+sensorSize,6 microns
+lensManufacturer,Schneider
+lensModelName,Apo-Digitar
+lensModelNumber,NA
+focalLength (lens),0.090
